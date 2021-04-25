@@ -8,6 +8,9 @@ Througout the BS in Computer Science program I have taken different courses that
 
 For the final Capstone we had to select three projects that we had previously made in the other classes and make some enhancements in order to prove what we have been learning. These three artifacts represent what I have learned, demonstrate my techniques and most of all, the start of a wonderful career in the technology field.
 
+## What's Next?
+I have learned a lot through the BS Computer Science program and I have still a lot to practice and continue learning but my intentions are to be able to move from one industry to the other (Business to Technology) and get a job that I really enjoy doing. With IT I have so many possibilities and things that I could do but right now I don't have a concrete plan about what I'm doing next. I plan to continue learning and look for entry-level jobs that will help me build my career further.
+
 ### Links
 * [Professional Self-Assessment](https://paolaflores4.github.io/index.html)<br>
 * [Refinement Plan & Code Review](https://paolaflores4.github.io/Plan&CodeReview.html)<br>
