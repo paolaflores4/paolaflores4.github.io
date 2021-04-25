@@ -8,7 +8,7 @@ I chose to include this artifact in this e-Portfoltio because it demonstrates my
 Before doing the enhancements I revisited the project to refresh what the main purpose was and be able to propose new functionalities that could be found useful.
 
 ### Repository
-[Enhancement Two](https://github.com/paolaflores4/Algorithms-Data-Structures)
+[Enhancement One](https://github.com/paolaflores4/Software-Engineering-Design)
 
 ### Links
 * [Professional Self-Assessment](https://paolaflores4.github.io/index.html)<br>
