@@ -1,37 +1,9 @@
-## Welcome to My GitHub Pages
+# e-Portfolio 
 
-You can use the [editor on GitHub](https://github.com/paolaflores4/paolaflores4.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
+This e-Portfolio has been developed in the Computer Science Capstone Course. My name is Paola Flores and I've been in the SNHU Computer Science Program since 2018. I graduated from Business Administration in 2014 but what I have been always passionate about is technology so in 2018 I decided to go back to school and enroll in the Bachelor in Computer Science program with a concentration in Software Engineering.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Portfolio Summary
+Througout the BS in Computer Science program I have taken different courses that have helped me acquire the knowledge and skills necessary to be here today and being able to do the activities needed to complete this Capstone. The main topics are related to algorithms and data structures, databases and software design. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paolaflores4/paolaflores4.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For the final Capstone we had to select three projects that we had previously made in the other classes and make some enhancements in order to prove what we have been learning. These three artifacts represent what I have learned, demonstrate my techniques and most of all, the start of a wonderful career in the technology field.
