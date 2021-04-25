@@ -8,7 +8,7 @@ I chose to include this artifact in this e-Portfoltio because it demonstrates my
 Before doing the enhancements I had to revisit the old project and remember some aspects about the main issue in order to be able to propose new solutions. This is important when designing a software, you have to get to know the project and understand the **why** of it to be able to do a good job and provide the instructions that will do what we are asking the program to do.
 
 ### Repository
-[Enhancement One](https://github.com/paolaflores4/Software-Engineering-Design)
+[Enhancement Two](https://github.com/paolaflores4/Algorithms-Data-Structures)
 
 ### Links
 * [Professional Self-Assessment](https://paolaflores4.github.io/index.html)<br>
